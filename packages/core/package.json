@@ -2,6 +2,7 @@
   "name": "@tommy_baron/core",
   "version": "1.0.0",
   "license": "MIT",
+  "private": false,
   "scripts": {
     "quality": "run-p quality:*",
     "quality:lint-fmt": "run-s lint fmt",

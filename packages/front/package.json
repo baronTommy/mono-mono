@@ -2,6 +2,7 @@
   "name": "@tommy_baron/front",
   "version": "1.0.0",
   "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "quality": "run-p quality:*",
