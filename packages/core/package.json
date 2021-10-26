@@ -1,7 +1,7 @@
 {
   "name": "@tommy_baron/core",
   "version": "1.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "quality": "run-p quality:*",
     "quality:lint-fmt": "run-s lint fmt",
