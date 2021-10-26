@@ -1,3 +1,5 @@
+const hooks = require("semantic-release-monorepo-hooks");
+const output = hooks();
 const conf = require("./interactive-commit.config");
 
 module.exports = {
