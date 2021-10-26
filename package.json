@@ -8,11 +8,11 @@
   ],
   "scripts": {
     "quality": "run-p quality:*",
-    "quality:core": "yarn workspace @app/core quality",
-    "quality:front": "yarn workspace @app/front quality",
+    "quality:core": "yarn workspace @tommy_baron/core quality",
+    "quality:front": "yarn workspace @tommy_baron/front quality",
     "preCommit": "run-s preCommit:core preCommit:front",
-    "preCommit:core": "yarn workspace @app/core lint-staged",
-    "preCommit:front": "yarn workspace @app/front lint-staged",
+    "preCommit:core": "yarn workspace @tommy_baron/core lint-staged",
+    "preCommit:front": "yarn workspace @tommy_baron/front lint-staged",
     "prepare": "git config --local core.hooksPath .githooks"
   },
   "devDependencies": {

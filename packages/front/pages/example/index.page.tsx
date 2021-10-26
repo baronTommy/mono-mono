@@ -1,4 +1,4 @@
-import { Example } from "@app/front/presenter/component/Example";
+import { Example } from "@tommy_baron/front/presenter/component/Example";
 import type { NextPage } from "next";
 import type { StaticProps } from "./type";
 export { getStaticProps } from "./getStaticProps";

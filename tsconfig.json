@@ -1,14 +1,10 @@
 {
-    "compilerOptions": {
-        "baseUrl": ".",
-        "paths": {
-            "@app/core/*": [
-                "packages/core/src/*"
-            ],
-            "@app/front/*": [
-                "packages/front/src/*"
-            ],
-        },
-        "noEmit": true
-    }
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@tommy_baron/core/*": ["packages/core/src/*"],
+      "@tommy_baron/front/*": ["packages/front/src/*"]
+    },
+    "noEmit": true
+  }
 }

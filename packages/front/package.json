@@ -1,5 +1,5 @@
 {
-  "name": "@app/front",
+  "name": "@tommy_baron/front",
   "version": "1.0.0",
   "license": "UNLICENSED",
   "scripts": {
@@ -14,7 +14,7 @@
     "stylesLint": "stylelint --fix --ignore-path .gitignore '**/styles.ts'"
   },
   "dependencies": {
-    "@app/core": "*",
+    "@tommy_baron/core": "*",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",

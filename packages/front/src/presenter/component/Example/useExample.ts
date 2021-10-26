@@ -1,4 +1,4 @@
-import { example } from "@app/core/example";
+import { example } from "@tommy_baron/core/example";
 import React from "react";
 
 type UseExample = () => {
