@@ -1,3 +1,13 @@
+## @tommy_baron/front [1.5.0](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/front@1.4.0...@tommy_baron/front@1.5.0) (2021-10-26)
+
+### feat
+
+- nnn ([6270b37](https://github.com/baronTommy/mono-mono/commit/6270b377512055391605545b027409af2e2a687b))
+
+### Dependencies
+
+- **@tommy_baron/core:** upgraded to 1.2.0
+
 # @tommy_baron/front [1.4.0](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/front@1.3.0...@tommy_baron/front@1.4.0) (2021-10-26)
 
 ### Features
