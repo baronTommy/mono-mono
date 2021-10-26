@@ -1,4 +1,4 @@
-// import { example } from "@tommy_baron/core/example";
+import { example } from "@tommy_baron/core/example";
 import React from "react";
 
 type UseExample = () => {
@@ -10,7 +10,6 @@ export const useExample: UseExample = () => {
 
   return {
     isSome,
-    monorepoValue: "",
-    // monorepoValue: example(),
+    monorepoValue: example(),
   };
 };
