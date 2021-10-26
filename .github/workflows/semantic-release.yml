@@ -14,8 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install modules
-        run: yarn
+        run: |
+          yarn install --frozen-lockfile
+      - name: Quality
+        run: |
+          yarn quality
       - name: Run Release
-        run: yarn semantic-release
+        run: |
+          yarn semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
