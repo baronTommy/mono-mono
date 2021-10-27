@@ -1,3 +1,9 @@
+## @tommy_baron/front [1.6.0](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/front@1.5.0...@tommy_baron/front@1.6.0) (2021-10-27)
+
+### feat
+
+- nnn ([cb803bb](https://github.com/baronTommy/mono-mono/commit/cb803bbe61c2dcbf57cb57b26721ea06336297cb))
+
 ## @tommy_baron/front [1.5.0](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/front@1.4.0...@tommy_baron/front@1.5.0) (2021-10-26)
 
 ### feat
