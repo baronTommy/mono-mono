@@ -1,3 +1,9 @@
+## @tommy_baron/core [1.3.0](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/core@1.2.0...@tommy_baron/core@1.3.0) (2021-10-30)
+
+### feat
+
+- nnn ([943a456](https://github.com/baronTommy/mono-mono/commit/943a4563800062354f76ef01db3f9afa4d84d0a3))
+
 ## @tommy_baron/core [1.2.0](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/core@1.1.0...@tommy_baron/core@1.2.0) (2021-10-26)
 
 ### feat
