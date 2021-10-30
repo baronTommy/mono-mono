@@ -1,3 +1,9 @@
+### @tommy_baron/front [1.7.1](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/front@1.7.0...@tommy_baron/front@1.7.1) (2021-10-30)
+
+### Dependencies
+
+- **@tommy_baron/core:** upgraded to 1.3.0
+
 ## @tommy_baron/front [1.7.0](https://github.com/baronTommy/mono-mono/compare/@tommy_baron/front@1.6.0...@tommy_baron/front@1.7.0) (2021-10-27)
 
 ### feat
