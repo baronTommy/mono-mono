@@ -3452,20 +3452,10 @@ camelize@^1.0.0:
   resolved "https://registry.yarnpkg.com/camelize/-/camelize-1.0.0.tgz#164a5483e630fa4321e5af07020e531831b2609b"
   integrity sha1-FkpUg+Yw+kMh5a8HAg5TGDGyYJs=
 
-caniuse-lite@^1.0.30001202, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001228:
-  version "1.0.30001265"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001265.tgz#0613c9e6c922e422792e6fcefdf9a3afeee4f8c3"
-  integrity sha512-YzBnspggWV5hep1m9Z6sZVLOt7vrju8xWooFAgN6BA5qvy98qPAPb7vNUzypFaoh2pb3vlfzbDO8tB57UPGbtw==
-
-caniuse-lite@^1.0.30001313:
-  version "1.0.30001313"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001313.tgz#a380b079db91621e1b7120895874e2fd62ed2e2f"
-  integrity sha512-rI1UN0koZUiKINjysQDuRi2VeSCce3bYJNmDcj3PIKREiAmjakugBul1QSkg/fPrlULYl6oWfGg3PbgOSY9X4Q==
-
-caniuse-lite@^1.0.30001317:
-  version "1.0.30001325"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001325.tgz#2b4ad19b77aa36f61f2eaf72e636d7481d55e606"
-  integrity sha512-sB1bZHjseSjDtijV1Hb7PB2Zd58Kyx+n/9EotvZ4Qcz2K3d0lWB8dB4nb8wN/TsOGFq3UuAm0zQZNQ4SoR7TrQ==
+caniuse-lite@^1.0.30001202, caniuse-lite@^1.0.30001219, caniuse-lite@^1.0.30001228, caniuse-lite@^1.0.30001313, caniuse-lite@^1.0.30001317:
+  version "1.0.30001327"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001327.tgz#c1546d7d7bb66506f0ccdad6a7d07fc6d668c858"
+  integrity sha512-1/Cg4jlD9qjZzhbzkzEaAC2JHsP0WrOc8Rd/3a3LuajGzGWR/hD7TVyvq99VqmTy99eVh8Zkmdq213OgvgXx7w==
 
 cardinal@^2.1.1:
   version "2.1.1"
@@ -4056,9 +4046,9 @@ cssesc@^3.0.0:
   integrity sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==
 
 cssnano-preset-simple@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/cssnano-preset-simple/-/cssnano-preset-simple-3.0.0.tgz#e95d0012699ca2c741306e9a3b8eeb495a348dbe"
-  integrity sha512-vxQPeoMRqUT3c/9f0vWeVa2nKQIHFpogtoBvFdW4GQ3IvEJ6uauCP6p3Y5zQDLFcI7/+40FTgX12o7XUL0Ko+w==
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/cssnano-preset-simple/-/cssnano-preset-simple-3.0.2.tgz#5d9d0caf4de7a76319b8716a789bb989a028054c"
+  integrity sha512-7c6EOw3oZshKOZc20Jh+cs2dIKxp0viV043jdal/t1iGVQkoyAQio3rrFWhPgAlkXMu+PRXsslqLhosFTmLhmQ==
   dependencies:
     caniuse-lite "^1.0.30001202"
 
