@@ -9339,12 +9339,7 @@ traverse@~0.6.6:
   resolved "https://registry.yarnpkg.com/traverse/-/traverse-0.6.6.tgz#cbdf560fd7b9af632502fed40f918c157ea97137"
   integrity sha1-y99WD9e5r2MlAv7UD5GMFX6pcTc=
 
-treeverse@*:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/treeverse/-/treeverse-1.0.4.tgz#a6b0ebf98a1bca6846ddc7ecbc900df08cb9cd5f"
-  integrity sha512-whw60l7r+8ZU8Tu/Uc2yxtc4ZTZbR/PF3u1IPNKGQ6p8EICLb3Z2lAgoqw9bqYd8IkgnsaOcLzYHFckjqNsf0g==
-
-treeverse@^2.0.0:
+treeverse@*, treeverse@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/treeverse/-/treeverse-2.0.0.tgz#036dcef04bc3fd79a9b79a68d4da03e882d8a9ca"
   integrity sha512-N5gJCkLu1aXccpOTtqV6ddSEi6ZmGkh3hjmbu1IjcavJK4qyOVQmi0myQKM7z5jVGmD68SJoliaVrMmVObhj6A==
