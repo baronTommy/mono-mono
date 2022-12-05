@@ -34,7 +34,7 @@
     "@typescript-eslint/parser": "5.45.0",
     "babel-plugin-jsx-remove-data-test-id": "3.0.0",
     "eslint": "8.23.1",
-    "eslint-config-next": "13.0.2",
+    "eslint-config-next": "13.0.6",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-jest": "27.1.5",
     "jest": "27.3.1",
