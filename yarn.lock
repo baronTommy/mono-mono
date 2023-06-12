@@ -143,6 +143,13 @@
   dependencies:
     "@babel/types" "^7.18.6"
 
+"@babel/helper-annotate-as-pure@^7.22.5":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-annotate-as-pure/-/helper-annotate-as-pure-7.22.5.tgz#e7f06737b197d580a01edf75d97e2c8be99d3882"
+  integrity sha512-LvBTxu8bQSQkcyKOU+a1btnNFQ1dMAd0R6PyW3arXes06F6QLWLIrd681bxRPIXlrMGR3XYnW9JyML7dP3qgxg==
+  dependencies:
+    "@babel/types" "^7.22.5"
+
 "@babel/helper-builder-binary-assignment-operator-visitor@^7.18.6":
   version "7.18.9"
   resolved "https://registry.yarnpkg.com/@babel/helper-builder-binary-assignment-operator-visitor/-/helper-builder-binary-assignment-operator-visitor-7.18.9.tgz#acd4edfd7a566d1d51ea975dff38fd52906981bb"
@@ -208,21 +215,14 @@
     "@babel/helper-split-export-declaration" "^7.18.6"
     semver "^6.3.0"
 
-"@babel/helper-create-regexp-features-plugin@^7.18.6":
-  version "7.19.0"
-  resolved "https://registry.yarnpkg.com/@babel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.19.0.tgz#7976aca61c0984202baca73d84e2337a5424a41b"
-  integrity sha512-htnV+mHX32DF81amCDrwIDr8nrp1PTm+3wfBN9/v8QJOLEioOCOG7qNyq0nHeFiWbT3Eb7gsPwEmV64UCQ1jzw==
+"@babel/helper-create-regexp-features-plugin@^7.18.6", "@babel/helper-create-regexp-features-plugin@^7.20.5":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.22.5.tgz#bb2bf0debfe39b831986a4efbf4066586819c6e4"
+  integrity sha512-1VpEFOIbMRaXyDeUwUfmTIxExLwQ+zkW+Bh5zXpApA3oQedBx9v/updixWxnx/bZpKw7u8VxWjb/qWpIcmPq8A==
   dependencies:
-    "@babel/helper-annotate-as-pure" "^7.18.6"
-    regexpu-core "^5.1.0"
-
-"@babel/helper-create-regexp-features-plugin@^7.20.5":
-  version "7.21.4"
-  resolved "https://registry.yarnpkg.com/@babel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.21.4.tgz#40411a8ab134258ad2cf3a3d987ec6aa0723cee5"
-  integrity sha512-M00OuhU+0GyZ5iBBN9czjugzWrEq2vDpf/zCYHxxf93ul/Q5rv+a5h+/+0WnI1AebHNVtl5bFV0qsJoH23DbfA==
-  dependencies:
-    "@babel/helper-annotate-as-pure" "^7.18.6"
+    "@babel/helper-annotate-as-pure" "^7.22.5"
     regexpu-core "^5.3.1"
+    semver "^6.3.0"
 
 "@babel/helper-define-polyfill-provider@^0.3.2", "@babel/helper-define-polyfill-provider@^0.3.3":
   version "0.3.3"
@@ -442,6 +442,11 @@
   resolved "https://registry.yarnpkg.com/@babel/helper-string-parser/-/helper-string-parser-7.21.5.tgz#2b3eea65443c6bdc31c22d037c65f6d323b6b2bd"
   integrity sha512-5pTUx3hAJaZIdW99sJ6ZUUgWq/Y+Hja7TowEnLNMm1VivRgZQL3vpBY3qUACVsvw+yQU6+YgfBVmcbLaZtrA1w==
 
+"@babel/helper-string-parser@^7.22.5":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-string-parser/-/helper-string-parser-7.22.5.tgz#533f36457a25814cf1df6488523ad547d784a99f"
+  integrity sha512-mM4COjgZox8U+JcXQwPijIZLElkgEpO5rsERVDJTc2qfCDfERyob6k5WegS14SX18IIjv+XD+GrqNumY5JRCDw==
+
 "@babel/helper-validator-identifier@^7.14.9":
   version "7.15.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.15.7.tgz#220df993bfe904a4a6b02ab4f3385a5ebf6e2389"
@@ -456,6 +461,11 @@
   version "7.19.1"
   resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.19.1.tgz#7eea834cf32901ffdc1a7ee555e2f9c27e249ca2"
   integrity sha512-awrNfaMtnHUr653GgGEs++LlAvW6w+DcPrOliSMXWCKo597CwL5Acf/wWdNkf/tfEQE3mjkeD1YOVZOUV/od1w==
+
+"@babel/helper-validator-identifier@^7.22.5":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.22.5.tgz#9544ef6a33999343c8740fa51350f30eeaaaf193"
+  integrity sha512-aJXu+6lErq8ltp+JhkJUfk1MTGyuA4v7f3pA+BJ5HLfNC6nAQ0Cpi9uOquUj8Hehg0aUiHzWQbOVJGao6ztBAQ==
 
 "@babel/helper-validator-option@^7.18.6", "@babel/helper-validator-option@^7.21.0":
   version "7.21.0"
@@ -1351,6 +1361,15 @@
   dependencies:
     "@babel/helper-string-parser" "^7.21.5"
     "@babel/helper-validator-identifier" "^7.19.1"
+    to-fast-properties "^2.0.0"
+
+"@babel/types@^7.22.5":
+  version "7.22.5"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.22.5.tgz#cd93eeaab025880a3a47ec881f4b096a5b786fbe"
+  integrity sha512-zo3MIHGOkPOfoRXitsgHLjEXmlDaD/5KU1Uzuc9GNiZPhSqVxVRtxuPaSBZDsYZ9qV88AjtMtWW7ww98loJ9KA==
+  dependencies:
+    "@babel/helper-string-parser" "^7.22.5"
+    "@babel/helper-validator-identifier" "^7.22.5"
     to-fast-properties "^2.0.0"
 
 "@bcoe/v8-coverage@^0.2.3":
@@ -9582,7 +9601,7 @@ regexpp@^3.2.0:
   resolved "https://registry.yarnpkg.com/regexpp/-/regexpp-3.2.0.tgz#0425a2768d8f23bad70ca4b90461fa2f1213e1b2"
   integrity sha512-pq2bWo9mVD43nbts2wGv17XLiNLya+GklZ8kaDLV2Z08gDCsGpnKn9BFMepvWuHCbyVvY7J5o5+BVvoQbmlJLg==
 
-regexpu-core@^5.1.0, regexpu-core@^5.3.1:
+regexpu-core@^5.3.1:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/regexpu-core/-/regexpu-core-5.3.2.tgz#11a2b06884f3527aec3e93dbbf4a3b958a95546b"
   integrity sha512-RAM5FlZz+Lhmo7db9L298p2vHP5ZywrVXmVXpmAD9GuL5MPH6t9ROw1iA/wfHkQ76Qe7AaPF0nGuim96/IrQMQ==
