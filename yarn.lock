@@ -1655,13 +1655,13 @@
     eventemitter3 "^4.0.4"
 
 "@jscpd/finder@^3.5.1":
-  version "3.5.5"
-  resolved "https://registry.yarnpkg.com/@jscpd/finder/-/finder-3.5.5.tgz#d46211c762ed62c72428914313f528a3cd550f41"
-  integrity sha512-RAaSnqZWe66JnYsUABvXBPfS9Z8U4GmLLa/IQkxZIOWxlt7g4ohs3FxJNv61bQdBbD0NQ6Xxvd4jntac8FKftg==
+  version "3.5.10"
+  resolved "https://registry.yarnpkg.com/@jscpd/finder/-/finder-3.5.10.tgz#5fee68f51e23157b6323743e3f2b8357921cd8b2"
+  integrity sha512-zyafUsTB2xDySho3wKMSoZuiMw2XvkdYW72kI7bLdz9M+ERyTMRfUnX1RgoGldXyylyZPF1FSflmfsppkV4Wuw==
   dependencies:
     "@jscpd/core" "^3.5.4"
     "@jscpd/tokenizer" "^3.5.4"
-    blamer "^1.0.3"
+    blamer "^1.0.4"
     bytes "^3.1.0"
     cli-table3 "^0.6.0"
     colors "1.4.0"
@@ -3644,10 +3644,10 @@ bl@^4.1.0:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-blamer@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/blamer/-/blamer-1.0.3.tgz#a130c1d82028167eba0250b3d01d066d1b7f2621"
-  integrity sha512-JalDFXndGCrTkKakC7C0H5I09ognGQrl3xJZ6wPwtiuX+9h/qcH1PbTnW+MD6mJku1ISmOAwzeWaXT79D3kg3g==
+blamer@^1.0.4:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/blamer/-/blamer-1.0.6.tgz#653fd72ab396efe180bae65d24919a8eda841944"
+  integrity sha512-fv7QToPS87oD1m1bDDTf29zC/bVKJxj2Nqh1r/v4NhMtbnzDIbWOHBYIfxCjlmkVGu3FGOjKgdNG3SFm7TkvBQ==
   dependencies:
     execa "^4.0.0"
     which "^2.0.2"
