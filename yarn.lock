@@ -312,6 +312,11 @@
   resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.22.5.tgz#dd7ee3735e8a313b9f7b05a773d892e88e6d7295"
   integrity sha512-uLls06UVKgFG9QD4OeFYLEGteMIAa5kpTPcFL28yuCIIzsf6ZyKZMllKVOCZFhiZ5ptnwX4mtKdWCBE/uT4amg==
 
+"@babel/helper-plugin-utils@^7.24.0":
+  version "7.24.0"
+  resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.24.0.tgz#945681931a52f15ce879fd5b86ce2dae6d3d7f2a"
+  integrity sha512-9cUznXMG0+FxRuJfvL82QlTqIzhVW9sL0KjMPHhAOOvpQGL8QtdxnBKILjBqxlHyliz0yCa1G903ZXI/FuHy2w==
+
 "@babel/helper-remap-async-to-generator@^7.22.20":
   version "7.22.20"
   resolved "https://registry.yarnpkg.com/@babel/helper-remap-async-to-generator/-/helper-remap-async-to-generator-7.22.20.tgz#7b68e1cb4fa964d2996fd063723fb48eca8498e0"
@@ -975,12 +980,12 @@
     "@babel/helper-plugin-utils" "^7.22.5"
 
 "@babel/plugin-transform-unicode-sets-regex@^7.22.5":
-  version "7.22.5"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-sets-regex/-/plugin-transform-unicode-sets-regex-7.22.5.tgz#77788060e511b708ffc7d42fdfbc5b37c3004e91"
-  integrity sha512-lhMfi4FC15j13eKrh3DnYHjpGj6UKQHtNKTbtc1igvAhRy4+kLhV07OpLcsN0VgDEw/MjAvJO4BdMJsHwMhzCg==
+  version "7.24.1"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-sets-regex/-/plugin-transform-unicode-sets-regex-7.24.1.tgz#c1ea175b02afcffc9cf57a9c4658326625165b7f"
+  integrity sha512-fqj4WuzzS+ukpgerpAoOnMfQXwUHFxXUZUE84oL2Kao2N8uSlvcpnAidKASgsNgzZHBsHWvcm8s9FPWUhAb8fA==
   dependencies:
-    "@babel/helper-create-regexp-features-plugin" "^7.22.5"
-    "@babel/helper-plugin-utils" "^7.22.5"
+    "@babel/helper-create-regexp-features-plugin" "^7.22.15"
+    "@babel/helper-plugin-utils" "^7.24.0"
 
 "@babel/preset-env@^7.11.0":
   version "7.23.2"
