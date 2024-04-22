@@ -35,7 +35,7 @@
     "babel-plugin-jsx-remove-data-test-id": "3.0.0",
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.3",
-    "eslint-config-prettier": "8.6.0",
+    "eslint-config-prettier": "9.1.0",
     "eslint-plugin-jest": "27.6.0",
     "jest": "27.3.1",
     "jscpd": "3.5.3",
