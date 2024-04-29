@@ -1562,7 +1562,7 @@
   dependencies:
     eventemitter3 "^4.0.4"
 
-"@jscpd/finder@^3.5.1":
+"@jscpd/finder@^3.5.1", "@jscpd/finder@^3.5.10":
   version "3.5.10"
   resolved "https://registry.yarnpkg.com/@jscpd/finder/-/finder-3.5.10.tgz#5fee68f51e23157b6323743e3f2b8357921cd8b2"
   integrity sha512-zyafUsTB2xDySho3wKMSoZuiMw2XvkdYW72kI7bLdz9M+ERyTMRfUnX1RgoGldXyylyZPF1FSflmfsppkV4Wuw==
@@ -1579,12 +1579,14 @@
     pug "^3.0.1"
 
 "@jscpd/html-reporter@^3.5.3":
-  version "3.5.4"
-  resolved "https://registry.yarnpkg.com/@jscpd/html-reporter/-/html-reporter-3.5.4.tgz#f35807fe9aecd048dd6ae7e63c1afd47203bdee5"
-  integrity sha512-bPy2UDCigwf8AfSaVN5Zl3J6q8w12SNwIaK2gMIxAe8UOnuGYbWAkKcR/udTBm0jTt/GkqOpxtusg0qMzcAIcg==
+  version "3.5.10"
+  resolved "https://registry.yarnpkg.com/@jscpd/html-reporter/-/html-reporter-3.5.10.tgz#caadce105eb1d0943707c2f8b05285d6b1f96a43"
+  integrity sha512-EPee/YSy/12UboUOoOD+vFvU8/Bi/CAKnjTDnAdPnJlSh68jog/BNhHKrXiiJKZS2CLn1WzjUaefJrn8VcWo+A==
   dependencies:
+    "@jscpd/finder" "^3.5.10"
     colors "1.4.0"
     fs-extra "^9.0.1"
+    pug "^3.0.2"
 
 "@jscpd/tokenizer@^3.5.1", "@jscpd/tokenizer@^3.5.4":
   version "3.5.4"
@@ -10449,7 +10451,7 @@ pug-walk@^2.0.0:
   resolved "https://registry.yarnpkg.com/pug-walk/-/pug-walk-2.0.0.tgz#417aabc29232bb4499b5b5069a2b2d2a24d5f5fe"
   integrity sha512-yYELe9Q5q9IQhuvqsZNwA5hfPkMJ8u92bQLIMcsMxf/VADjNtEYptU+inlufAFYcWdHlwNfZOEnOOQrZrcyJCQ==
 
-pug@^3.0.1:
+pug@^3.0.1, pug@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/pug/-/pug-3.0.2.tgz#f35c7107343454e43bc27ae0ff76c731b78ea535"
   integrity sha512-bp0I/hiK1D1vChHh6EfDxtndHji55XP/ZJKwsRqrz6lRia6ZC2OZbdAymlxdVFwd1L70ebrVJw4/eZ79skrIaw==
