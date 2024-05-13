@@ -1955,9 +1955,9 @@
     walk-up-path "^3.0.1"
 
 "@npmcli/disparity-colors@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@npmcli/disparity-colors/-/disparity-colors-3.0.0.tgz#60ea8c6eb5ba9de2d1950e15b06205b2c3ab7833"
-  integrity sha512-5R/z157/f20Fi0Ou4ZttL51V0xz0EdPEOauFtPCEYOLInDBRCj1/TxOJ5aGTrtShxEshN2d+hXb9ZKSi5RLBcg==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@npmcli/disparity-colors/-/disparity-colors-3.0.1.tgz#042d5ef548200c81e3ee3a84c994744573fe79fd"
+  integrity sha512-cOypTz/9IAhaPgOktbDNPeccTU88y8I1ZURbPeC0ooziK1h6dRJs2iGz1eKP1muaeVbow8GqQ0DaxLG8Bpmblw==
   dependencies:
     ansi-styles "^4.3.0"
 
