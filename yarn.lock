@@ -777,11 +777,11 @@
     "@babel/helper-remap-async-to-generator" "^7.22.5"
 
 "@babel/plugin-transform-block-scoped-functions@^7.22.5":
-  version "7.23.3"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-block-scoped-functions/-/plugin-transform-block-scoped-functions-7.23.3.tgz#fe1177d715fb569663095e04f3598525d98e8c77"
-  integrity sha512-vI+0sIaPIO6CNuM9Kk5VmXcMVRiOpDh7w2zZt9GXzmE/9KD70CUEVhvPR/etAeNK/FAEkhxQtXOzVF3EuRL41A==
+  version "7.24.1"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-block-scoped-functions/-/plugin-transform-block-scoped-functions-7.24.1.tgz#1c94799e20fcd5c4d4589523bbc57b7692979380"
+  integrity sha512-TWWC18OShZutrv9C6mye1xwtam+uNi2bnTOCBUd5sZxyHOiWbU6ztSROofIMrK84uweEZC219POICK/sTYwfgg==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.22.5"
+    "@babel/helper-plugin-utils" "^7.24.0"
 
 "@babel/plugin-transform-block-scoping@^7.23.0":
   version "7.23.0"
