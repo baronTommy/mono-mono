@@ -844,12 +844,12 @@
     globals "^11.1.0"
 
 "@babel/plugin-transform-computed-properties@^7.24.1":
-  version "7.24.1"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-computed-properties/-/plugin-transform-computed-properties-7.24.1.tgz#bc7e787f8e021eccfb677af5f13c29a9934ed8a7"
-  integrity sha512-5pJGVIUfJpOS+pAqBQd+QMaTD2vCL/HcePooON6pDpHgRp4gNRmzyHTPIkXntwKsq3ayUFVfJaIKPw2pOkOcTw==
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-computed-properties/-/plugin-transform-computed-properties-7.24.7.tgz#4cab3214e80bc71fae3853238d13d097b004c707"
+  integrity sha512-25cS7v+707Gu6Ds2oY6tCkUwsJ9YIDbggd9+cu9jzzDgiNq7hR/8dkzxWfKWnTic26vsI3EsCXNd4iEB6e8esQ==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.0"
-    "@babel/template" "^7.24.0"
+    "@babel/helper-plugin-utils" "^7.24.7"
+    "@babel/template" "^7.24.7"
 
 "@babel/plugin-transform-destructuring@^7.24.5":
   version "7.24.5"
