@@ -5907,9 +5907,9 @@ function-bind@^1.1.1, function-bind@^1.1.2:
   integrity sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==
 
 function-timeout@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/function-timeout/-/function-timeout-1.0.1.tgz#fd379f96501e536617a89ae080d44539ed805f63"
-  integrity sha512-6yPMImFFuaMPNaTMTBuolA8EanHJWF5Vju0NHpObRURT105J6x1Mf2a7J4P7Sqk2xDxv24N5L0RatEhTBhNmdA==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/function-timeout/-/function-timeout-1.0.2.tgz#e5a7b6ffa523756ff20e1231bbe37b5f373aadd5"
+  integrity sha512-939eZS4gJ3htTHAldmyyuzlrD58P03fHG49v2JfFXbV6OhvZKRC9j2yAtdHw/zrp2zXHuv05zMIy40F0ge7spA==
 
 function.prototype.name@^1.1.5:
   version "1.1.5"
