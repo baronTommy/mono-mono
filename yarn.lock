@@ -2388,10 +2388,10 @@
     picocolors "^1.0.0"
     tslib "^2.6.0"
 
-"@pnpm/config.env-replace@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@pnpm/config.env-replace/-/config.env-replace-1.0.0.tgz#c76fa65847c9554e88d910f264c2ba9a1575e833"
-  integrity sha512-ZVPVDi1E8oeXlYqkGRtX0CkzLTwE2zt62bjWaWKaAvI8NZqHzlMvGeSNDpW+JB3+aKanYb4UETJOF1/CxGPemA==
+"@pnpm/config.env-replace@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@pnpm/config.env-replace/-/config.env-replace-1.1.0.tgz#ab29da53df41e8948a00f2433f085f54de8b3a4c"
+  integrity sha512-htyl8TWnKL7K/ESFa1oW2UB5lVDxuF5DpM7tBi6Hu2LNL3mWkIzNLG6N4zoCUP1lCKNxWy/3iu8mS8MvToGd6w==
 
 "@pnpm/network.ca-file@^1.0.1":
   version "1.0.2"
@@ -2401,11 +2401,11 @@
     graceful-fs "4.2.10"
 
 "@pnpm/npm-conf@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@pnpm/npm-conf/-/npm-conf-2.1.0.tgz#1bbecd961a1ea447f209556728e2dcadddb0bca6"
-  integrity sha512-Oe6ntvgsMTE3hDIqy6sajqHF+MnzJrOF06qC2QSiUEybLL7cp6tjoKUa32gpd9+KPVl4QyMs3E3nsXrx/Vdnlw==
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@pnpm/npm-conf/-/npm-conf-2.3.1.tgz#bb375a571a0bd63ab0a23bece33033c683e9b6b0"
+  integrity sha512-c83qWb22rNRuB0UaVCI0uRPNRr8Z0FWnEIvT47jiHAmOIUHbBOg5XvV7pM5x+rKn9HRpjxquDbXYSXr3fAKFcw==
   dependencies:
-    "@pnpm/config.env-replace" "^1.0.0"
+    "@pnpm/config.env-replace" "^1.1.0"
     "@pnpm/network.ca-file" "^1.0.1"
     config-chain "^1.1.11"
 
